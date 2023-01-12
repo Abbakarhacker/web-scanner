@@ -1,7 +1,7 @@
 # web-scanner
 This script scan for different vulnerability such as sql injection, xss injection and other vulnerability This script is very easy to use.
 
-<h1>install only in termux</h1> 
+<h1>install in termux</h1> 
 
 <p>pkg update </p>
 
@@ -31,7 +31,7 @@ Dont forget to add your dork parameter to the website you are scanning its vulne
 
   
 
-Kali Linux or parrot os or backbox
+<h1>Kali Linux or parrot os or backbox</h1>
 
 <p>Sudo apt update && sudo apt upgrade </p>
 <p>Sudo apt install python </p>
@@ -39,7 +39,7 @@ Kali Linux or parrot os or backbox
 <p>Sudo apt install git </p>
 <p>git clone https://github.com/Abbakarhacker/web-scanner.git</p>
 <p>ls</p>
-<p>cd web-scanner </p>
+<p>cd web-scanner</p>
 <p>ls</p>
 <p>python2 web-scanner.py</p>
 
