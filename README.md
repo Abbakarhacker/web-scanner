@@ -31,6 +31,19 @@ Dont forget to add your dork parameter to the website you are scanning its vulne
 
   
 
-# How To Install
+Kali Linux or parrot os or backbox
 
-   Run python2 web-scanner.py to use it
+<p>Sudo apt update && sudo apt upgrade </p>
+<p>Sudo apt install python </p>
+<p>sudo apt install python2 </p>
+<p>Sudo apt install git </p>
+<p>git clone https://github.com/Abbakarhacker/web-scanner.git</p>
+<p>ls</p>
+<p>cd web-scanner </p>
+<p>ls</p>
+<p>python2 web-scanner.py</p>
+
+
+
+
+
