@@ -21,4 +21,16 @@ This script scan for different vulnerability such as sql injection, xss injectio
 
 <p>ls</p>
 
-<p>python2 web-scanner.py<7p>
+<p>python2 web-scanner.py</p>
+
+<h2>Please subscribe to my YouTube channel </h2>
+
+<h3>https://youtube.com/@arewacyberwarriors</h3>
+
+Dont forget to add your dork parameter to the website you are scanning its vulnerability.
+
+  
+
+# How To Install
+
+   Run python2 web-scanner.py to use it
